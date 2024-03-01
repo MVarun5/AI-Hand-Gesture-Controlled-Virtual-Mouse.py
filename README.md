@@ -6,6 +6,9 @@ The AI Hand Gesture-Controlled Virtual Mouse is a project where a computer's mou
 
 FEATURES
 > Gesture Recognition: Recognizes a variety of predefined hand gestures for controlling the virtual mouse.
+
 > Real-time Feedback: Provides immediate visual and/or auditory feedback to users for successful gesture recognition.
+
 > Customization: Allows users to customize gestures, sensitivity, and other settings to suit individual preferences.
+
 > Compatibility: Works seamlessly across major operating systems, including Windows, macOS, and Linux.
