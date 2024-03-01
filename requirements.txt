@@ -1,0 +1,18 @@
+SOFTWARE REQUIREMENTS:
+1. Python language
+2. pyautogui-library == 0.9.53
+3. opencv-python-library == 4.5.3.56
+4. Media Pipe Framework == 0.8.6.2
+5. comtypes == 1.1.10
+6. pycaw == 20181226
+7. screen-brightness-control == 0.9.0
+8. Gesture Recognition Software
+9. Mouse Emulation Software
+
+HARDWARE REQUIREMENTS:
+1. Gesture Input Device == Basic webcam with a resolution of at least 720p for capturing hand gestures.
+2. Processor (CPU/GPU) == Dual-core processor (e.g., Intel Core i3 or equivalent) for gesture recognition.
+3. Memory (RAM) == 4GB DDR4 RAM to support the gesture recognition algorithms
+4. Display == Monitor or display screen with a resolution compatible with the operating system for visual feedback and user interaction.
+5. Input Devices == Standard input devices (keyboard, mouse) for system configuration and interaction beyond gesture control.
+6. Power Supply == USB-powered gesture input device without a dedicated battery.
