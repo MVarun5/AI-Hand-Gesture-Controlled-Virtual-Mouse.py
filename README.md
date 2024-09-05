@@ -13,3 +13,26 @@ The AI Hand Gesture-Controlled Virtual Mouse is a project where a computer's mou
 > Customization: Allows users to customize gestures, sensitivity, and other settings to suit individual preferences.
 
 > Compatibility: Works seamlessly across major operating systems, including Windows, macOS, and Linux.
+
+<h2>Gesture Controls</h2><br>
+
+> Move Mouse: Move your hand in the camera's view to move the mouse pointer.
+
+> Left Click: Hold your hand in a fist, then release to perform a left-click.
+
+> Right Click: Hold your hand with two fingers extended (like a peace sign) to perform a right-click.
+
+> Double Click: Perform two quick fist gestures to emulate a double-click.
+
+> Scroll: Rotate your hand in a circular motion to scroll up and down.
+
+<h2>Requirements</h2><br>
+<h3>Software:</h3>
+> Python 3.x
+> OpenCV
+> Mediapipe
+> Numpy
+> PyAutoGUI
+
+<h3>Hardware:</h3>
+> A webcam (internal or external)
