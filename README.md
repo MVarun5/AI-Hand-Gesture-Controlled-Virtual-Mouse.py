@@ -3,6 +3,7 @@
 
 <h2>OVERVIEW</h2><br>
 The AI Hand Gesture-Controlled Virtual Mouse is a project where a computer's mouse functions are replaced by gestures, enhancing accessibility and the user experience. Utilizing a camera and machine learning algorithms, the system interprets hand gestures, translating them into mouse commands.The Virtual Mouse hand gesture recognition program continually captures real-time images, subjecting them to a series of cleaning and conversion processes. After completion, the program applies image processing techniques to extract the coordinates of the targeted hand gestures from the converted frames. Subsequently, it compares the detected gestures with a predefined list, where different gesture combinations correspond to distinct mouse functions. If a match is found, the program executes the associated mouse function, translating it into an actual command for the user's machine. Users can navigate, click, and scroll without physical contact. It leverages AI, fostering immersive human-computer interaction.
+<br>
 
 <h2>FEATURES</h2><br>
 
@@ -13,6 +14,7 @@ The AI Hand Gesture-Controlled Virtual Mouse is a project where a computer's mou
 > Customization: Allows users to customize gestures, sensitivity, and other settings to suit individual preferences.
 
 > Compatibility: Works seamlessly across major operating systems, including Windows, macOS, and Linux.
+<br>
 
 <h2>Gesture Controls</h2><br>
 
@@ -25,14 +27,16 @@ The AI Hand Gesture-Controlled Virtual Mouse is a project where a computer's mou
 > Double Click: Perform two quick fist gestures to emulate a double-click.
 
 > Scroll: Rotate your hand in a circular motion to scroll up and down.
+<br>
 
-<h2>Requirements</h2><br>
-<h3>Software:</h3>
-> Python 3.x
-> OpenCV
-> Mediapipe
-> Numpy
-> PyAutoGUI
+<h2>Requirements</h2>
 
-<h3>Hardware:</h3>
+<h4>Software:</h4>
+-> Python 3.x<br>
+-> OpenCV<br>
+-> Mediapipe<br>
+-> Numpy<br>
+-> PyAutoGUI<br>
+
+<h4>Hardware:</h4>
 > A webcam (internal or external)
